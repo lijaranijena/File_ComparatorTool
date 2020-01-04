@@ -1,0 +1,7 @@
+{
+	"response_path":"E:\\automation\\response",
+	"first_input_file":"POA_XX_",
+	"second_inpit_file":"POD_XX_",
+	"file_extension" : ".json"
+	
+}
